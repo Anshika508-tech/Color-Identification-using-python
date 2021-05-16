@@ -1,3 +1,5 @@
+Name: Anshika Agarwal
+Project: Color Identification
 import cv2
 import numpy as np
 
