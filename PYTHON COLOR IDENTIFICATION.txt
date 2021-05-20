@@ -1,5 +1,6 @@
 Name: Anshika Agarwal
 Project: Color Identification
+Institute name : THE SPARKS FOUNDATION
 import cv2
 import numpy as np
 
